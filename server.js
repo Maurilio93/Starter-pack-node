@@ -15,7 +15,7 @@ app.get("/info", (req,res) => {
 
 
 app.post("/login", (req, res) => {
-  const token = "hdjdjbdkdw";
+  const token = "bgstgtwgwrtrwrw";
   const { username, password } = req.body;
   res.status(200).json({
     message: "Success!",
